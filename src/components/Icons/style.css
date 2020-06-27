@@ -1,0 +1,9 @@
+.socialmediaicons img{
+    width: 10%;
+    max-height: 10%;
+    object-fit: cover;
+    justify-content: space-between;
+    margin-right: 10px;
+    border-radius: 50%;
+;
+}
